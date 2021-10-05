@@ -40,3 +40,6 @@ myVar ++;
 var myVar = 11;
 myVar--;
 
+//Create Decimal Numbers with JavaScript
+var ourDecimal = 5.7;
+var myDecimal = 5.7;
