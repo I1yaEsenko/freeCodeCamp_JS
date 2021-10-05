@@ -24,3 +24,12 @@ var titleCaseOver;
 studlyCapVar = 10;
 properCamelCase = "A String";
 titleCaseOver = 9000;
+
+//Add Two Numbers with JavaScript, Subtract One Number from Another with JavaScript 
+//Multiply Two Numbers with JavaScript,Divide One Number by Another with JavaScript
+a = 10 + 10;
+var difference = 45 - 33;
+
+var product = 8 * 10;
+var quotient = 66 / 33;
+
