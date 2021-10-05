@@ -33,3 +33,10 @@ var difference = 45 - 33;
 var product = 8 * 10;
 var quotient = 66 / 33;
 
+//Increment a Number with JavaScript, Decrement a Number with JavaScript
+var myVar = 87;
+myVar ++;
+
+var myVar = 11;
+myVar--;
+
