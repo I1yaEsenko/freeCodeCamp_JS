@@ -43,3 +43,7 @@ myVar--;
 //Create Decimal Numbers with JavaScript
 var ourDecimal = 5.7;
 var myDecimal = 5.7;
+
+//Finding a Remainder in JavaScript
+var remainder;
+remainder = 11 % 3;
