@@ -47,3 +47,4 @@ var myDecimal = 5.7;
 //Finding a Remainder in JavaScript
 var remainder;
 remainder = 11 % 3;
+
