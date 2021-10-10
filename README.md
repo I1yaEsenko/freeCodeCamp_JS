@@ -1,12 +1,13 @@
 # FreeCodeCamp_JS Task Solution
 
 ## Basic JavaScript
-______
+
 
 **JavaScript** is a scripting language you can use to make web pages interactive. It is one of the core technologies of the web, along with HTML and CSS, and is supported by all modern browsers.
 
 In this course, you'll learn fundamental programming concepts in JavaScript. You'll start with basic data structures like numbers and strings. Then you'll learn to work with arrays, objects, functions, loops, if/else statements, and more.
 ______
+
 <br>:white_check_mark: Comment Your JavaScript Code  
 :white_check_mark: Declare JavaScript Variables 
 <br>:white_check_mark: Storing Values with the Assignment Operator 
@@ -15,12 +16,12 @@ ______
 <br>:white_check_mark: Understanding Uninitialized Variables 
 <br>:white_check_mark: Understanding Case Sensitivity in Variables 
 <br>:white_check_mark: Add Two Numbers with JavaScript   
-Subtract One Number from Another with JavaScript 
+:white_check_mark:Subtract One Number from Another with JavaScript 
 <br>:white_check_mark: Multiply Two Numbers with JavaScript   
-Divide One Number by Another with JavaScript 
+:white_check_mark:Divide One Number by Another with JavaScript 
 <br>:white_check_mark: Increment a Number with JavaScript 
 <br>:white_check_mark: Decrement a Number with JavaScript   
-Create Decimal Numbers with JavaScript 
+:white_check_mark:Create Decimal Numbers with JavaScript 
 <br>:white_check_mark: Divide One Decimal by Another with JavaScript 
 <br>:white_check_mark: Finding a Remainder in JavaScript   
 :white_check_mark: Compound Assignment With Augmented Subtraction 
