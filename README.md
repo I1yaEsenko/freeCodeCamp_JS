@@ -28,10 +28,10 @@ ______
 <br>:white_check_mark: Compound Assignment With Augmented Addition 
 <br>:white_check_mark: Compound Assignment With Augmented Multiplication 
 <br>:white_check_mark: Compound Assignment With Augmented Division 
-<br>Declare String Variables
-<br>Escaping Literal Quotes in Strings
-<br>Quoting Strings with Single Quotes
-<br>Escape Sequences in Strings
+<br>:white_check_mark: Declare String Variables
+<br>:white_check_mark: Escaping Literal Quotes in Strings
+<br>:white_check_mark: Quoting Strings with Single Quotes
+<br>:white_check_mark: Escape Sequences in Strings
 <br>Concatenating Strings with Plus Operator
 <br>Concatenating Strings with the Plus Equals Operator
 <br>Constructing Strings with Variables

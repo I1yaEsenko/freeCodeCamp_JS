@@ -83,3 +83,17 @@ var c = 33;
 a /= 12;
 b /= 4;
 c /= 11;
+
+// Declare String Variables
+let myFirstName = "Ilya"
+let myLastName = "Esenko"
+
+// Escaping Literal Quotes in Strings
+// \"    "
+var myStr = "I am a \"double quoted\" string inside \"double quotes\".";
+
+// Quoting Strings with Single Quotes
+var myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
+
+// Escape Sequences in Strings
+var myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
