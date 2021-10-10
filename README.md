@@ -1,6 +1,4 @@
-# freeCodeCamp_JS
-
-freeCodeCamp
+# freeCodeCamp_JS Task Solution
 
 Basic JavaScript
 
@@ -10,8 +8,6 @@ In this course, you'll learn fundamental programming concepts in JavaScript. You
 
 Comment Your JavaScript Code ✓
 Declare JavaScript Variables ✓
-Storing Values with the Assignment Operator ✓
-Assigning the Value of One Variable to Another ✓
 Initializing Variables with the Assignment Operator ✓
 Understanding Uninitialized Variables ✓
 Understanding Case Sensitivity in Variables ✓
