@@ -23,10 +23,10 @@ Divide One Number by Another with JavaScript
 Create Decimal Numbers with JavaScript 
 <br>:white_check_mark: Divide One Decimal by Another with JavaScript 
 <br>:white_check_mark: Finding a Remainder in JavaScript   
-Compound Assignment With Augmented Subtraction 
-<br>Compound Assignment With Augmented Addition 
-<br>Compound Assignment With Augmented Multiplication 
-<br>Compound Assignment With Augmented Division 
+:white_check_mark: Compound Assignment With Augmented Subtraction 
+<br>:white_check_mark: Compound Assignment With Augmented Addition 
+<br>:white_check_mark: Compound Assignment With Augmented Multiplication 
+<br>:white_check_mark: Compound Assignment With Augmented Division 
 <br>Declare String Variables
 <br>Escaping Literal Quotes in Strings
 <br>Quoting Strings with Single Quotes
