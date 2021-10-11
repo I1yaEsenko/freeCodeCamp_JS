@@ -110,6 +110,9 @@ var myName = "Ilya Esenko";
 var myStr = "My name is " + myName + " and I am well!";
 
 // Appending Variables to Strings 
+var someAdjective = "wow";
+var myStr = "Learning to code is ";
+myStr += someAdjective;
 
 // Find the Length of a String
 
