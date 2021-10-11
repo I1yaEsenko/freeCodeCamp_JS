@@ -32,8 +32,8 @@ ______
 <br>:white_check_mark: Escaping Literal Quotes in Strings
 <br>:white_check_mark: Quoting Strings with Single Quotes
 <br>:white_check_mark: Escape Sequences in Strings
-<br>Concatenating Strings with Plus Operator
-<br>Concatenating Strings with the Plus Equals Operator
+<br>:white_check_mark: Concatenating Strings with Plus Operator
+<br>:white_check_mark: Concatenating Strings with the Plus Equals Operator
 <br>Constructing Strings with Variables
 <br>Appending Variables to Strings
 <br>Find the Length of a String
