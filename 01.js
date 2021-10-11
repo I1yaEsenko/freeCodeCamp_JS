@@ -115,8 +115,16 @@ var myStr = "Learning to code is ";
 myStr += someAdjective;
 
 // Find the Length of a String
+// Setup
+var lastNameLength = 0;
+var lastName = "Lovelace";
+
+// Only change code below this line
+lastName = lastName.length;
+lastNameLength = lastName;
 
 // Use Bracket Notation to Find the First Character in a String
+
 
 // Understand String Immutability
 
