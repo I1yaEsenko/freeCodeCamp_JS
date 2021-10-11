@@ -34,7 +34,7 @@ ______
 <br>:white_check_mark: Escape Sequences in Strings
 <br>:white_check_mark: Concatenating Strings with Plus Operator
 <br>:white_check_mark: Concatenating Strings with the Plus Equals Operator
-<br>Constructing Strings with Variables
+<br>:white_check_mark: Constructing Strings with Variables
 <br>Appending Variables to Strings
 <br>Find the Length of a String
 <br>Use Bracket Notation to Find the First Character in a String
