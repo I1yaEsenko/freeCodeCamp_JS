@@ -129,7 +129,10 @@ var lastName = "Lovelace";
 firstLetterOfLastName = lastName[0]; // Change this line
 
 // Understand String Immutability
+var myStr = "Jello World";
+myStr = "Hello World"; 
 
+// Only change code above this line
 // Use Bracket Notation to Find the Nth Character in a String
 
 // Use Bracket Notation to Find the Last Character in a String

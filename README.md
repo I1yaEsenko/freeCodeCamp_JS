@@ -37,8 +37,8 @@ ______
 <br>:white_check_mark: Constructing Strings with Variables
 <br>:white_check_mark: Appending Variables to Strings
 <br>:white_check_mark: Find the Length of a String
-<br>:white_check_mark:Use Bracket Notation to Find the First Character in a String
-<br>Understand String Immutability
+<br>:white_check_mark: Use Bracket Notation to Find the First Character in a String
+<br>:white_check_mark: Understand String Immutability
 <br>Use Bracket Notation to Find the Nth Character in a String
 <br>Use Bracket Notation to Find the Last Character in a String
 <br>Use Bracket Notation to Find the Nth-to-Last Character in a String
