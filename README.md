@@ -40,8 +40,8 @@ ______
 <br>:white_check_mark: Use Bracket Notation to Find the First Character in a String
 <br>:white_check_mark: Understand String Immutability
 <br>:white_check_mark: Use Bracket Notation to Find the Nth Character in a String
-<br>Use Bracket Notation to Find the Last Character in a String
-<br>Use Bracket Notation to Find the Nth-to-Last Character in a String
+<br>:white_check_mark: Use Bracket Notation to Find the Last Character in a String
+<br>:white_check_mark: Use Bracket Notation to Find the Nth-to-Last Character in a String
 <br>Word Blanks  
 Store Multiple Values in one Variable using JavaScript Arrays
 <br>Nest one Array within Another Array
