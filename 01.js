@@ -132,8 +132,9 @@ firstLetterOfLastName = lastName[0]; // Change this line
 var myStr = "Jello World";
 myStr = "Hello World"; 
 
-// Only change code above this line
 // Use Bracket Notation to Find the Nth Character in a String
+var lastName = "Lovelace";
+var thirdLetterOfLastName = lastName[2]; // Change this line
 
 // Use Bracket Notation to Find the Last Character in a String
 
