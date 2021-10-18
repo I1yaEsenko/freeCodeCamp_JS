@@ -48,10 +48,10 @@ ______
 <br>:white_check_mark: Access Array Data with Indexes
 <br>:white_check_mark: Modify Array Data With Indexes
 <br>:white_check_mark: Access Multi-Dimensional Arrays With Indexes
-<br>Manipulate Arrays With push()
-<br>Manipulate Arrays With pop()
-<br>Manipulate Arrays With shift()
-<br>Manipulate Arrays With unshift()
+<br>:white_check_mark: Manipulate Arrays With push()
+<br>:white_check_mark: Manipulate Arrays With pop()
+<br>:white_check_mark: Manipulate Arrays With shift()
+<br>:white_check_mark: Manipulate Arrays With unshift()
 <br>Shopping List
 <br>Write Reusable JavaScript with Functions
 <br>Passing Values to Functions with Arguments
