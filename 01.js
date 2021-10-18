@@ -146,16 +146,30 @@ var lastName = "Lovelace";
 var secondToLastLetterOfLastName = lastName[lastName.length - 2]; 
 
 // Word Blanks  
+var myNoun = "dog";
+var myAdjective = "big";
+var myVerb = "ran";
+var myAdverb = "quickly";
+var wordBlanks = "My " + myNoun + " " + " is very " + myAdjective + " " + "and she can " + myVerb + " " + myAdverb + " " + "."; // Change this line
+
 
 // Store Multiple Values in one Variable using JavaScript Arrays
+var myArray = ["string", 1];
 
 // Nest one Array within Another Array
+var myArray = [["first", 1], ["second", 2]];
 
 // Access Array Data with Indexes
+var myArray = [50,60,70];
+var myData = myArray[0];
 
 // Modify Array Data With Indexes
+var myArray = [18,64,99];
+myArray[0] = 45;
 
 // Access Multi-Dimensional Arrays With Indexes
+
+
 
 // Manipulate Arrays With push()
 

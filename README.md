@@ -42,12 +42,12 @@ ______
 <br>:white_check_mark: Use Bracket Notation to Find the Nth Character in a String
 <br>:white_check_mark: Use Bracket Notation to Find the Last Character in a String
 <br>:white_check_mark: Use Bracket Notation to Find the Nth-to-Last Character in a String
-<br>Word Blanks  
-Store Multiple Values in one Variable using JavaScript Arrays
-<br>Nest one Array within Another Array
-<br>Access Array Data with Indexes
-<br>Modify Array Data With Indexes
-<br>Access Multi-Dimensional Arrays With Indexes
+<br>:white_check_mark: Word Blanks  
+:white_check_mark: Store Multiple Values in one Variable using JavaScript Arrays
+<br>:white_check_mark: Nest one Array within Another Array
+<br>:white_check_mark: Access Array Data with Indexes
+<br>:white_check_mark: Modify Array Data With Indexes
+<br>:white_check_mark: Access Multi-Dimensional Arrays With Indexes
 <br>Manipulate Arrays With push()
 <br>Manipulate Arrays With pop()
 <br>Manipulate Arrays With shift()
