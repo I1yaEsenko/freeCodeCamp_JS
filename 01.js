@@ -189,16 +189,47 @@ myArray.shift();
 myArray.unshift(["Paul", 35]);
 
 // Shopping List
+var myList = [["Milk", 5],
+              ["Meat", 10],
+              ["Tomato", 7],
+              ["Honey",12],
+              ["Salate", 3]];
 
 // Write Reusable JavaScript with Functions
+function reusableFunction(){
+  console.log("Hi World");
+};
+reusableFunction();
 
 // Passing Values to Functions with Arguments
+function functionWithArgs(args1, args2){
+  console.log(args1+args2)
+}
+functionWithArgs(3, 2);
 
 // Global Scope and Functions
-
+var myGlobal = 10;
+function fun1() {
+oopsGlobal = 5;
+}
 // Local Scope and Functions
+function myLocalScope() {
+  var myVar = 10;
+  console.log('inside myLocalScope', myVar);
+}
+myLocalScope();
+// Run and check the console
+// myVar is not defined outside of myLocalScope
+console.log('outside myLocalScope', myVar);
 
 // Global vs. Local Scope in Functions
+var outerWear = "T-Shirt";
+function myOutfit() {
+  var outerWear = "sweater";
+  return outerWear;
+}
+myOutfit();
+
 
 // Return a Value from a Function with Return
 

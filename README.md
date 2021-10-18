@@ -52,12 +52,12 @@ ______
 <br>:white_check_mark: Manipulate Arrays With pop()
 <br>:white_check_mark: Manipulate Arrays With shift()
 <br>:white_check_mark: Manipulate Arrays With unshift()
-<br>Shopping List
-<br>Write Reusable JavaScript with Functions
-<br>Passing Values to Functions with Arguments
-<br>Global Scope and Functions
-<br>Local Scope and Functions
-<br>Global vs. Local Scope in Functions
+<br>:white_check_mark: Shopping List
+<br>:white_check_mark: Write Reusable JavaScript with Functions
+<br>:white_check_mark: Passing Values to Functions with Arguments
+<br>:white_check_mark: Global Scope and Functions
+<br>:white_check_mark: Local Scope and Functions
+<br>:white_check_mark: Global vs. Local Scope in Functions
 <br>Return a Value from a Function with Return
 <br>Understanding Undefined Value returned from a Function
 <br>Assignment with a Returned Value
