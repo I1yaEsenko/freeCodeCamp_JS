@@ -59,8 +59,8 @@ ______
 <br>:white_check_mark: Local Scope and Functions
 <br>:white_check_mark: Global vs. Local Scope in Functions
 <br>:white_check_mark: Return a Value from a Function with Return
-<br>Understanding Undefined Value returned from a Function
-<br>Assignment with a Returned Value
+<br>:white_check_mark: Understanding Undefined Value returned from a Function
+<br>:white_check_mark: Assignment with a Returned Value
 <br>Stand in Line
 <br>Understanding Boolean Values
 <br>Use Conditional Logic with If Statements
