@@ -183,7 +183,10 @@ var removedFromMyArray = myArray.pop();
 var myArray = [["John", 23], ["dog", 3]];
 var removedFromMyArray = myArray.shift();
 
-// Manipulate Arrays With unshift()
+// Manipulate Arrays With unshift() add item into start
+var myArray = [["John", 23], ["dog", 3]];
+myArray.shift();
+myArray.unshift(["Paul", 35]);
 
 // Shopping List
 
