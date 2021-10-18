@@ -58,7 +58,7 @@ ______
 <br>:white_check_mark: Global Scope and Functions
 <br>:white_check_mark: Local Scope and Functions
 <br>:white_check_mark: Global vs. Local Scope in Functions
-<br>Return a Value from a Function with Return
+<br>:white_check_mark: Return a Value from a Function with Return
 <br>Understanding Undefined Value returned from a Function
 <br>Assignment with a Returned Value
 <br>Stand in Line

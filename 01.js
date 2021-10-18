@@ -233,10 +233,21 @@ myOutfit();
 
 // Return a Value from a Function with Return
 function timesFive(num){
-  return num + 5;
+  return num * 5;
 }
 
 // Understanding Undefined Value returned from a Function
+// Setup
+var sum = 0;
+function addThree() {
+  sum = sum + 3;
+}
+// Only change code below this line
+function addFive(num){
+  sum = sum + 5;
+}
+addThree();
+addFive();
 
 // Assignment with a Returned Value
 
