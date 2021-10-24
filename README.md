@@ -68,13 +68,13 @@ ______
 <br>:white_check_mark: Comparison with the Strict Equality Operator
 <br>:white_check_mark: Practice comparing different values
 <br>:white_check_mark: Comparison with the Inequality Operator
-<br>Comparison with the Strict Inequality Operator
-<br>Comparison with the Greater Than Operator
-<br>Comparison with the Greater Than Or Equal To Operator
-<br>Comparison with the Less Than Operator
-<br>Comparison with the Less Than Or Equal To Operator
-<br>Comparisons with the Logical And Operator
-<br>Comparisons with the Logical Or Operator
+<br>:white_check_mark: Comparison with the Strict Inequality Operator
+<br>:white_check_mark: Comparison with the Greater Than Operator
+<br>:white_check_mark: Comparison with the Greater Than Or Equal To Operator
+<br>:white_check_mark: Comparison with the Less Than Operator
+<br>:white_check_mark: Comparison with the Less Than Or Equal To Operator
+<br>:white_check_mark: Comparisons with the Logical And Operator
+<br>:white_check_mark: Comparisons with the Logical Or Operator
 <br>Introducing Else Statements
 <br>Introducing Else If Statements
 <br>Logical Order in If Else Statements
