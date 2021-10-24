@@ -64,9 +64,9 @@ ______
 <br>:white_check_mark: Stand in Line
 <br>:white_check_mark: Understanding Boolean Values
 <br>:white_check_mark: Use Conditional Logic with If Statements
-<br>Comparison with the Equality Operator
-<br>Comparison with the Strict Equality Operator
-<br>Practice comparing different values
+<br>:white_check_mark: Comparison with the Equality Operator
+<br>:white_check_mark: Comparison with the Strict Equality Operator
+<br>:white_check_mark: Practice comparing different values
 <br>Comparison with the Inequality Operator
 <br>Comparison with the Strict Inequality Operator
 <br>Comparison with the Greater Than Operator

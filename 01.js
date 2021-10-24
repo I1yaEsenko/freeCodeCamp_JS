@@ -291,8 +291,23 @@ function testEqual(val) {
 testEqual(12);
 
 // Comparison with the Strict Equality Operator
+function testStrict(val) {
+    if (val === 7) { // Change this line
+        return "Equal";
+    }
+    return "Not Equal";
+}
+testStrict(10);
 
 // Practice comparing different values
+function compareEquality(a, b) {
+    if (a === b) { // Change this line
+        return "Equal";
+    }
+    return "Not Equal";
+}
+console.log(compareEquality("10", 10))
+console.log(compareEquality("20", 20))
 
 // Comparison with the Inequality Operator
 
