@@ -271,8 +271,24 @@ console.log("After: " + JSON.stringify(testArr));
 // Understanding Boolean Values
 
 // Use Conditional Logic with If Statements
+function trueOrFalse(wasThatTrue) {
+    if(wasThatTrue){
+        return "Yes, that was true"
+    }
+    return "No, that was false"
+}
+trueOrFalse(true);
+trueOrFalse(false);
+
 
 // Comparison with the Equality Operator
+function testEqual(val) {
+    if (val == 12) { // Change this line
+        return "Equal";
+    }
+    return "Not Equal";
+}
+testEqual(12);
 
 // Comparison with the Strict Equality Operator
 
