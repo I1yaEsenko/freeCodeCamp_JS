@@ -67,7 +67,7 @@ ______
 <br>:white_check_mark: Comparison with the Equality Operator
 <br>:white_check_mark: Comparison with the Strict Equality Operator
 <br>:white_check_mark: Practice comparing different values
-<br>Comparison with the Inequality Operator
+<br>:white_check_mark: Comparison with the Inequality Operator
 <br>Comparison with the Strict Inequality Operator
 <br>Comparison with the Greater Than Operator
 <br>Comparison with the Greater Than Or Equal To Operator

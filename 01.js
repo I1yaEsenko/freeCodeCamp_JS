@@ -310,6 +310,14 @@ console.log(compareEquality("10", 10))
 console.log(compareEquality("20", 20))
 
 // Comparison with the Inequality Operator
+function testNotEqual(val) {
+    if (val != 99) { // Change this line
+        return "Not Equal";
+    }
+    return "Equal";
+}
+console.log(testNotEqual(15));
+
 
 // Comparison with the Strict Inequality Operator
 
