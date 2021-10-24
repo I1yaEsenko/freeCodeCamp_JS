@@ -82,7 +82,7 @@ ______
 <br>:white_check_mark: Golf Code
 <br>:white_check_mark: Selecting from Many Options with Switch Statements
 <br>:white_check_mark: Adding a Default Option in Switch Statements
-<br>Multiple Identical Options in Switch Statements
+<br>:white_check_mark: Multiple Identical Options in Switch Statements
 <br>Replacing If Else Chains with Switch
 <br>Returning Boolean Values from Functions
 <br>Return Early Pattern for Functions
