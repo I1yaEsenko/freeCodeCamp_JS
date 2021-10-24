@@ -79,8 +79,8 @@ ______
 <br>:white_check_mark: Introducing Else If Statements
 <br>:white_check_mark: Logical Order in If Else Statements
 <br>:white_check_mark: Chaining If Else Statements
-<br>Golf Code
-<br>Selecting from Many Options with Switch Statements
+<br>:white_check_mark: Golf Code
+<br>:white_check_mark: Selecting from Many Options with Switch Statements
 <br>Adding a Default Option in Switch Statements
 <br>Multiple Identical Options in Switch Statements
 <br>Replacing If Else Chains with Switch
