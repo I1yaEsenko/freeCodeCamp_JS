@@ -75,10 +75,10 @@ ______
 <br>:white_check_mark: Comparison with the Less Than Or Equal To Operator
 <br>:white_check_mark: Comparisons with the Logical And Operator
 <br>:white_check_mark: Comparisons with the Logical Or Operator
-<br>Introducing Else Statements
-<br>Introducing Else If Statements
-<br>Logical Order in If Else Statements
-<br>Chaining If Else Statements
+<br>:white_check_mark: Introducing Else Statements
+<br>:white_check_mark: Introducing Else If Statements
+<br>:white_check_mark: Logical Order in If Else Statements
+<br>:white_check_mark: Chaining If Else Statements
 <br>Golf Code
 <br>Selecting from Many Options with Switch Statements
 <br>Adding a Default Option in Switch Statements
