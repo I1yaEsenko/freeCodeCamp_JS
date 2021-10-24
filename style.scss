@@ -1,15 +1,5 @@
-@mixin border-stroke($val) {
-  @if $val == light {
-   border: 1px solid black;
-  } @else if $val == medium {
-    border: 3px solid black;
-  } @else if $val == heavy {
-    border: 6px solid black;
-  } @else {
-    border: none;
-  }
-}
-
+@import "mixin";
+/* _________________________________ */
 #box {
   width: 150px;
   height: 150px;
@@ -22,13 +12,13 @@
 //@for $j from 1 to 6{
 // .text-#{$j} {font-size:15px * $j}
 //}
-
+/* _________________________________ */
 $colors: (color1: blue, color2: black, color3: red);
 
 @each $key, $color in $colors {
   .#{"" + $color}-bg {background-color: $color;}
 }
-
+/* _________________________________ */
 div {
   height: 200px;
   width: 200px;
