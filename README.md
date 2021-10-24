@@ -61,7 +61,7 @@ ______
 <br>:white_check_mark: Return a Value from a Function with Return
 <br>:white_check_mark: Understanding Undefined Value returned from a Function
 <br>:white_check_mark: Assignment with a Returned Value
-<br>Stand in Line
+<br>:white_check_mark: Stand in Line
 <br>Understanding Boolean Values
 <br>Use Conditional Logic with If Statements
 <br>Comparison with the Equality Operator
