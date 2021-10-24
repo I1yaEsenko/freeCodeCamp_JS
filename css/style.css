@@ -6,26 +6,6 @@
 }
 
 /* _________________________________ */
-.text-1 {
-  font-size: 15px;
-}
-
-.text-2 {
-  font-size: 30px;
-}
-
-.text-3 {
-  font-size: 45px;
-}
-
-.text-4 {
-  font-size: 60px;
-}
-
-.text-5 {
-  font-size: 75px;
-}
-
 .blue-bg {
   background-color: blue;
 }
@@ -41,6 +21,26 @@
 div {
   height: 200px;
   width: 200px;
+}
+
+.text-1 {
+  font-size: 5px;
+}
+
+.text-2 {
+  font-size: 10px;
+}
+
+.text-3 {
+  font-size: 15px;
+}
+
+.text-4 {
+  font-size: 20px;
+}
+
+.text-5 {
+  font-size: 25px;
 }
 
 /*# sourceMappingURL=style.css.map */
