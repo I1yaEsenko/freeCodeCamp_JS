@@ -85,7 +85,7 @@ ______
 <br>:white_check_mark: Multiple Identical Options in Switch Statements
 <br>:white_check_mark: Replacing If Else Chains with Switch
 <br>:white_check_mark: Returning Boolean Values from Functions
-<br>Return Early Pattern for Functions
+<br>:white_check_mark: Return Early Pattern for Functions
 <br>Counting Cards
 <br>Build JavaScript Objects
 <br>Accessing Object Properties with Dot Notation
