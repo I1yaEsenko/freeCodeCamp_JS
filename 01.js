@@ -608,6 +608,11 @@ function chainToSwitch(val) {
   console.log(chainToSwitch("bob"));
 
 // Returning Boolean Values from Functions
+function isLess(a, b) {
+    return a < b;
+  }
+  isLess(10, 15);
+
 
 // Return Early Pattern for Functions
 
