@@ -651,7 +651,12 @@ switch (card){
 console.log(cc('J'))
 
 // Build JavaScript Objects
-
+var myDog = {
+    "name": "Ebobo",
+    "legs": 3,
+    "tails": 1,
+    "friends": ["Jasica", "Billy"]
+    };
 // Accessing Object Properties with Dot Notation
 
 // Accessing Object Properties with Bracket Notation

@@ -87,7 +87,7 @@ ______
 <br>:white_check_mark: Returning Boolean Values from Functions
 <br>:white_check_mark: Return Early Pattern for Functions
 <br>:white_check_mark: Counting Cards
-<br>Build JavaScript Objects
+<br>:white_check_mark: Build JavaScript Objects
 <br>Accessing Object Properties with Dot Notation
 <br>Accessing Object Properties with Bracket Notation
 <br>Accessing Object Properties with Variables
