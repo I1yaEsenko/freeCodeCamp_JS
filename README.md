@@ -86,7 +86,7 @@ ______
 <br>:white_check_mark: Replacing If Else Chains with Switch
 <br>:white_check_mark: Returning Boolean Values from Functions
 <br>:white_check_mark: Return Early Pattern for Functions
-<br>Counting Cards
+<br>:white_check_mark: Counting Cards
 <br>Build JavaScript Objects
 <br>Accessing Object Properties with Dot Notation
 <br>Accessing Object Properties with Bracket Notation

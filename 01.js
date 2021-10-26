@@ -547,7 +547,7 @@ function switchOfStuff(val) {
 console.log(switchOfStuff("a"));
 
 // Multiple Identical Options in Switch Statements
-vfunction sequentialSizes(val) {
+function sequentialSizes(val) {
     var answer = "";
     // Only change code below this line
     switch(val) {
@@ -624,6 +624,31 @@ function abTest(a, b) {
     console.log(abTest(-2,2));
 
 // Counting Cards
+var count = 0;
+function cc(card) {
+switch (card){
+  case 2:
+  case 3:
+  case 4:
+  case 5:
+  case 6:
+    count++;
+  break;
+  case 10:
+  case 'J':
+  case 'Q':
+  case 'K':
+  case 'A':
+    count--;
+  break;
+}
+  let result = "Hold";
+  if (count > 0){
+    result = "Bet";
+  } 
+  return count + " " + result;
+}
+console.log(cc('J'))
 
 // Build JavaScript Objects
 
