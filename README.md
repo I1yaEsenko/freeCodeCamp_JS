@@ -88,9 +88,9 @@ ______
 <br>:white_check_mark: Return Early Pattern for Functions
 <br>:white_check_mark: Counting Cards
 <br>:white_check_mark: Build JavaScript Objects
-<br>Accessing Object Properties with Dot Notation
-<br>Accessing Object Properties with Bracket Notation
-<br>Accessing Object Properties with Variables
+<br>:white_check_mark: Accessing Object Properties with Dot Notation
+<br>:white_check_mark: Accessing Object Properties with Bracket Notation
+<br>:white_check_mark: Accessing Object Properties with Variables
 <br>Updating Object Properties
 <br>Add New Properties to a JavaScript Object
 <br>Delete Properties from a JavaScript Object
