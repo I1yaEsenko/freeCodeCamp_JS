@@ -95,7 +95,7 @@ ______
 <br>:white_check_mark: Add New Properties to a JavaScript Object
 <br>:white_check_mark: Delete Properties from a JavaScript Object
 <br>:white_check_mark: Using Objects for Lookups
-<br>Testing Objects for Properties
+<br>:white_check_mark: Testing Objects for Properties
 <br>Manipulating Complex Objects
 <br>Accessing Nested Objects
 <br>Accessing Nested Arrays

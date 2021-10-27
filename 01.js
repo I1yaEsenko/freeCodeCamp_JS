@@ -733,7 +733,14 @@ function phoneticLookup(val) {
   
   console.log(phoneticLookup("charlie"));
 // Testing Objects for Properties
-
+function checkObj(obj, checkProp) {
+    if (obj.hasOwnProperty(checkProp) === true){
+      return obj[checkProp];
+    } else {
+      return "Not Found";
+    }
+  }
+  
 // Manipulating Complex Objects
 
 // Accessing Nested Objects
