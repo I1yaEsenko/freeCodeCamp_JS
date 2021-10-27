@@ -91,7 +91,7 @@ ______
 <br>:white_check_mark: Accessing Object Properties with Dot Notation
 <br>:white_check_mark: Accessing Object Properties with Bracket Notation
 <br>:white_check_mark: Accessing Object Properties with Variables
-<br>Updating Object Properties
+<br>:white_check_mark: Updating Object Properties
 <br>Add New Properties to a JavaScript Object
 <br>Delete Properties from a JavaScript Object
 <br>Using Objects for Lookups

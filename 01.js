@@ -686,6 +686,14 @@ var player = testObj[playerNumber];
 console.log(player)
 
 // Updating Object Properties
+const myDog = {
+    "name": "Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"]
+  };
+  myDog.name = 'Happy Coder'
+
 
 // Add New Properties to a JavaScript Object
 
