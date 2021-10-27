@@ -707,9 +707,31 @@ const myDog = {
   console.log(myDog)
   
 // Delete Properties from a JavaScript Object
+const myDog = {
+    "name": "Happy Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"],
+    "bark": "woof"
+  };
+  delete myDog.tails;
 
 // Using Objects for Lookups
-
+function phoneticLookup(val) {
+    let result = "";
+    const lookup = {
+      "alpha": "Adams",
+      "bravo": "Boston",
+      "charlie": "Chicago",
+      "delta": "Denver",
+      "echo": "Easy",
+      "foxtrot": "Frank"
+    }
+    result = lookup[val];
+    return result;
+  }
+  
+  console.log(phoneticLookup("charlie"));
 // Testing Objects for Properties
 
 // Manipulating Complex Objects
