@@ -92,9 +92,9 @@ ______
 <br>:white_check_mark: Accessing Object Properties with Bracket Notation
 <br>:white_check_mark: Accessing Object Properties with Variables
 <br>:white_check_mark: Updating Object Properties
-<br>Add New Properties to a JavaScript Object
-<br>Delete Properties from a JavaScript Object
-<br>Using Objects for Lookups
+<br>:white_check_mark: Add New Properties to a JavaScript Object
+<br>:white_check_mark: Delete Properties from a JavaScript Object
+<br>:white_check_mark: Using Objects for Lookups
 <br>Testing Objects for Properties
 <br>Manipulating Complex Objects
 <br>Accessing Nested Objects
