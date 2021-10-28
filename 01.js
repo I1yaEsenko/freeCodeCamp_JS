@@ -842,6 +842,11 @@ while ( i >= 0 ){
 }
 console.log(myArray)
 // Iterate with JavaScript For Loops
+const myArray = [];
+for (let i = 1; i < 6; i++){
+  myArray.push(i)
+}
+console.log(myArray)
 
 // Iterate Odd Numbers With a For Loop
 
