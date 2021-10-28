@@ -834,7 +834,13 @@ const recordCollection = {
   console.log(updateRecords(recordCollection, 5439, 'artist', 'ABBA'));
 
 // Iterate with JavaScript While Loops
-
+const myArray =  [];
+let i = 5;
+while ( i >= 0 ){
+  myArray.push(i);
+  i--;
+}
+console.log(myArray)
 // Iterate with JavaScript For Loops
 
 // Iterate Odd Numbers With a For Loop
