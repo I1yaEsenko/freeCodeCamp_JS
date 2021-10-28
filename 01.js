@@ -742,7 +742,28 @@ function checkObj(obj, checkProp) {
   }
   
 // Manipulating Complex Objects
-
+const myMusic = [
+    {
+      "artist": "Billy Joel",
+      "title": "Piano Man",
+      "release_year": 1973,
+      "formats": [
+        "CD",
+        "8T",
+        "LP"
+      ],
+      "gold": true
+    },
+    {"artist": "Bob Marley",
+                    "title": "Woman No Cry",
+                    "release_year": 1982,
+                    "formats": [
+                      "CD",
+                      "DVD",
+                      "LP"
+                    ]
+  }
+  ];
 // Accessing Nested Objects
 
 // Accessing Nested Arrays

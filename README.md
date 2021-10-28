@@ -96,15 +96,15 @@ ______
 <br>:white_check_mark: Delete Properties from a JavaScript Object
 <br>:white_check_mark: Using Objects for Lookups
 <br>:white_check_mark: Testing Objects for Properties
-<br>Manipulating Complex Objects
-<br>Accessing Nested Objects
-<br>Accessing Nested Arrays
-<br>Record Collection
-<br>Iterate with JavaScript While Loops
-<br>Iterate with JavaScript For Loops
-<br>Iterate Odd Numbers With a For Loop
-<br>Count Backwards With a For Loop
-<br>Iterate Through an Array with a For Loop
+<br>:white_check_mark: Manipulating Complex Objects
+<br>:white_check_mark: Nested Objects
+<br>:white_check_mark: Accessing Nested Arrays
+<br>:white_check_mark: Record Collection
+<br>:white_check_mark: Iterate with JavaScript While Loops
+<br>:white_check_mark: Iterate with JavaScript For Loops
+<br>:white_check_mark: Iterate Odd Numbers With a For Loop
+<br>:white_check_mark: Count Backwards With a For Loop
+<br>:white_check_mark: Iterate Through an Array with a For Loop
 <br>Nesting For Loops
 <br>Iterate with JavaScript Do...While Loops
 <br>Replace Loops using Recursion
