@@ -105,7 +105,7 @@ ______
 <br>:white_check_mark: Iterate Odd Numbers With a For Loop
 <br>:white_check_mark: Count Backwards With a For Loop
 <br>:white_check_mark: Iterate Through an Array with a For Loop
-<br>Nesting For Loops
+<br>:white_check_mark: Nesting For Loops
 <br>Iterate with JavaScript Do...While Loops
 <br>Replace Loops using Recursion
 <br>Profile Lookup
