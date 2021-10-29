@@ -992,3 +992,14 @@ function countdown(n){
 
 console.log(countdown(5))
 // Use Recursion to Create a Range of Numbers
+function rangeOfNumbers(startNum, endNum) {
+  
+  if (endNum - startNum === 0){
+    return [startNum];
+  } else {
+    let myArr = rangeOfNumbers(startNum, endNum -1);
+    myArr.push(endNum);
+    return myArr;
+  }
+};
+console.log(rangeOfNumbers(1, 5))
