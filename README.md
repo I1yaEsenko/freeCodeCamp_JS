@@ -8,24 +8,24 @@
 In this course, you'll learn fundamental programming concepts in JavaScript. You'll start with basic data structures like numbers and strings. Then you'll learn to work with arrays, objects, functions, loops, if/else statements, and more.
 ______
 <details>
-<summary>Tasl and Solutions</summary>
+<summary>Task and Solutions</summary>
 <br>:white_check_mark: Comment Your JavaScript Code  
-:white_check_mark: Declare JavaScript Variables 
+<br>:white_check_mark: Declare JavaScript Variables 
 <br>:white_check_mark: Storing Values with the Assignment Operator 
 <br>:white_check_mark: Assigning the Value of One Variable to Another 
 <br>:white_check_mark: Initializing Variables with the Assignment Operator 
 <br>:white_check_mark: Understanding Uninitialized Variables 
 <br>:white_check_mark: Understanding Case Sensitivity in Variables 
 <br>:white_check_mark: Add Two Numbers with JavaScript   
-:white_check_mark:Subtract One Number from Another with JavaScript 
+<br>:white_check_mark:Subtract One Number from Another with JavaScript 
 <br>:white_check_mark: Multiply Two Numbers with JavaScript   
-:white_check_mark:Divide One Number by Another with JavaScript 
+<br>:white_check_mark:Divide One Number by Another with JavaScript 
 <br>:white_check_mark: Increment a Number with JavaScript 
 <br>:white_check_mark: Decrement a Number with JavaScript   
-:white_check_mark:Create Decimal Numbers with JavaScript 
+<br>:white_check_mark:Create Decimal Numbers with JavaScript 
 <br>:white_check_mark: Divide One Decimal by Another with JavaScript 
 <br>:white_check_mark: Finding a Remainder in JavaScript   
-:white_check_mark: Compound Assignment With Augmented Subtraction 
+<br>:white_check_mark: Compound Assignment With Augmented Subtraction 
 <br>:white_check_mark: Compound Assignment With Augmented Addition 
 <br>:white_check_mark: Compound Assignment With Augmented Multiplication 
 <br>:white_check_mark: Compound Assignment With Augmented Division 
@@ -44,7 +44,7 @@ ______
 <br>:white_check_mark: Use Bracket Notation to Find the Last Character in a String
 <br>:white_check_mark: Use Bracket Notation to Find the Nth-to-Last Character in a String
 <br>:white_check_mark: Word Blanks  
-:white_check_mark: Store Multiple Values in one Variable using JavaScript Arrays
+<br>:white_check_mark: Store Multiple Values in one Variable using JavaScript Arrays
 <br>:white_check_mark: Nest one Array within Another Array
 <br>:white_check_mark: Access Array Data with Indexes
 <br>:white_check_mark: Modify Array Data With Indexes
