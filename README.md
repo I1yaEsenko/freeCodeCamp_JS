@@ -7,7 +7,8 @@
 
 In this course, you'll learn fundamental programming concepts in JavaScript. You'll start with basic data structures like numbers and strings. Then you'll learn to work with arrays, objects, functions, loops, if/else statements, and more.
 ______
-
+<details>
+<summary>Tasl and Solutions</summary>
 <br>:white_check_mark: Comment Your JavaScript Code  
 :white_check_mark: Declare JavaScript Variables 
 <br>:white_check_mark: Storing Values with the Assignment Operator 
@@ -118,7 +119,7 @@ ______
 <br>:white_check_mark: Use Multiple Conditional (Ternary) Operators
 <br>:white_check_mark: Use Recursion to Create a Countdown
 <br>:white_check_mark: Use Recursion to Create a Range of Numbers
-
+</details>
 
 ## SASS#
 Sass, or "Syntactically Awesome StyleSheets", is a language extension of CSS. It adds features that aren't available in basic CSS, which make it easier for you to simplify and maintain the style sheets for your projects.
