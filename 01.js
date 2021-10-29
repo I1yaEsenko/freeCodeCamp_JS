@@ -960,7 +960,11 @@ function convertToInteger(str) {
   
   convertToInteger("56");
 // Use the parseInt Function with a Radix
-
+function convertToInteger(str) {
+  return parseInt(str, 2 ) /// radix (str , radix)
+  }
+  
+  console.log(convertToInteger("10011"));
 // Use the Conditional (Ternary) Operator
 
 // Use Multiple Conditional (Ternary) Operators
