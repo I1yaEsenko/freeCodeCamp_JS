@@ -972,7 +972,13 @@ function checkEqual(a, b) {
 checkEqual(1, 2);
 
 // Use Multiple Conditional (Ternary) Operators
+function checkSign(num) {
+  return (num < 0) ? "negative"
+  : (num === 0) ? "zero"
+  : "positive";
+}
 
+console.log(checkSign(10));
 // Use Recursion to Create a Countdown
 
 // Use Recursion to Create a Range of Numbers
