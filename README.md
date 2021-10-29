@@ -106,18 +106,18 @@ ______
 <br>:white_check_mark: Count Backwards With a For Loop
 <br>:white_check_mark: Iterate Through an Array with a For Loop
 <br>:white_check_mark: Nesting For Loops
-<br>Iterate with JavaScript Do...While Loops
-<br>Replace Loops using Recursion
-<br>Profile Lookup
-<br>Generate Random Fractions with JavaScript
-<br>Generate Random Whole Numbers with JavaScript
-<br>Generate Random Whole Numbers within a Range
-<br>Use the parseInt Function
-<br>Use the parseInt Function with a Radix
-<br>Use the Conditional (Ternary) Operator
-<br>Use Multiple Conditional (Ternary) Operators
-<br>Use Recursion to Create a Countdown
-<br>Use Recursion to Create a Range of Numbers
+<br>:white_check_mark: Iterate with JavaScript Do...While Loops
+<br>:white_check_mark: Replace Loops using Recursion
+<br>:white_check_mark: Profile Lookup
+<br>:white_check_mark: Generate Random Fractions with JavaScript
+<br>:white_check_mark: Generate Random Whole Numbers with JavaScript
+<br>:white_check_mark: Generate Random Whole Numbers within a Range
+<br>:white_check_mark: Use the parseInt Function
+<br>:white_check_mark: Use the parseInt Function with a Radix
+<br>:white_check_mark: Use the Conditional (Ternary) Operator
+<br>:white_check_mark: Use Multiple Conditional (Ternary) Operators
+<br>:white_check_mark: Use Recursion to Create a Countdown
+<br>:white_check_mark: Use Recursion to Create a Range of Numbers
 
 
 ## SASS#
