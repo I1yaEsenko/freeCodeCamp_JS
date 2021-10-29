@@ -939,6 +939,9 @@ function lookUpProfile(name, prop) {
 console.log(lookUpProfile("Akira", "likes"));
 
 // Generate Random Fractions with JavaScript
+function randomFraction() {
+  return Math.random();
+}
 
 // Generate Random Whole Numbers with JavaScript
 
