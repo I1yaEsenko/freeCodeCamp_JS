@@ -7,7 +7,8 @@
 In this course, you'll learn fundamental programming concepts in JavaScript. You'll start with basic data structures like numbers and strings. Then you'll learn to work with arrays, objects, functions, loops, if/else statements, and more.
 ______
 <details>
-<summary>Tasl and Solutions</summary>
+<summary>Task and Solutions</summary>
+
 <br>:white_check_mark: Comment Your JavaScript Code  
 <br>:white_check_mark: Declare JavaScript Variables 
 <br>:white_check_mark: Storing Values with the Assignment Operator 
@@ -129,3 +130,64 @@ To write an effective algorithm, it helps to break a problem down into smaller p
 In this course, you'll learn the fundamentals of algorithmic thinking by writing algorithms that do everything from converting temperatures to handling complex 2D arrays.
 
 ______
+<details>
+<summary>Task and Solutions</summary>
+
+<br>Convert Celsius to Fahrenheit
+<br>Reverse a String
+<br>Factorialize a Number
+<br>Find the Longest Word in a String
+<br>Return Largest Numbers in Arrays
+<br>Confirm the Ending
+<br>Repeat a String Repeat a String
+<br>Truncate a String
+<br>Finders Keepers
+<br>Boo who
+<br>Title Case a Sentence
+<br>Slice and Splice
+<br>Falsy Bouncer
+<br>Where do I Belong
+<br>Mutations
+<br>Chunky Monkey
+
+</details>
+
+## Object Oriented Programming
+
+OOP, or Object Oriented Programming, is one of the major approaches to the software development process. In OOP, objects and classes organize code to describe things and what they can do.
+
+In this course, you'll learn the basic principles of OOP in JavaScript, including the this keyword, prototype chains, constructors, and inheritance.
+
+______
+
+<details>
+<summary>Task and Solutions</summary>
+
+<br>:white_check_mark: Create a Basic JavaScript Object
+<br>:white_check_mark: Use Dot Notation to Access the Properties of an Object
+<br>:white_check_mark: Create a Method on an Object
+<br>:white_check_mark: Make Code More Reusable with the this Keyword
+<br>:white_check_mark: Define a Constructor Function
+<br>Use a Constructor to Create Objects
+<br>Extend Constructors to Receive Arguments
+<br>Verify an Object's Constructor with instanceof
+<br>Understand Own Properties
+<br>Use Prototype Properties to Reduce Duplicate Code
+<br>Iterate Over All Properties
+<br>Understand the Constructor Property
+<br>Change the Prototype to a New Object
+<br>Remember to Set the Constructor Property when Changing the Prototype
+<br>Understand Where an Object’s Prototype Comes From
+<br>Understand the Prototype Chain
+<br>Use Inheritance So You Don't Repeat Yourself
+<br>Inherit Behaviors from a Supertype
+<br>Set the Child's Prototype to an Instance of the Parent
+<br>Reset an Inherited Constructor Property
+<br>Add Methods After Inheritance
+<br>Override Inherited Methods
+<br>Use a Mixin to Add Common Behavior Between Unrelated Objects
+<br>Use Closure to Protect Properties Within an Object from Being Modified Externally
+<br>Understand the Immediately Invoked Function Expression (IIFE)
+<br>Use an IIFE to Create a Module
+
+</details>
