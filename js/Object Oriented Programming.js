@@ -33,6 +33,12 @@ let dog = {
 dog.sayLegs();
 
 // Task: Define a Constructor Function
+// Создание объекта через функцию Конструктора
+function Dog(){
+  this.name = "Spot",
+  this.color = "Black",
+  this.numLegs = 4
+}
 
 // Task: Use a Constructor to Create Objects
 
