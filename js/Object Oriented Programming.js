@@ -60,6 +60,12 @@ function Dog(name, color) {
 let terrier = new Dog("bob", "brown");
 
 // Task: Verify an Object's Constructor with instanceof
+// Проверка объекта на создание конструктором с помощью instanceof
+function House(numBedrooms) {
+  this.numBedrooms = numBedrooms;
+}
+let myHouse = new House(4);
+myHouse instanceof House;
 
 // Task: Understand Own Properties
 
