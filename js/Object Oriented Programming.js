@@ -113,31 +113,55 @@ for (let property in beagle){
 
 
 // Task: Understand the Constructor Property
-
+//
+function Dog(name) {
+  this.name = name;
+}
+function joinDogFraternity(candidate) {
+  if (candidate.constructor === Dog){
+    return true;
+  } else {
+    return false;
+  }
+}
 // Task: Change the Prototype to a New Object
+//
 
 // Task: Remember to Set the Constructor Property when Changing the Prototype
+//
 
 // Task: Understand Where an Object’s Prototype Comes From
+//
 
 // Task: Understand the Prototype Chain
+//
 
 // Task: Use Inheritance So You Don't Repeat Yourself
+//
 
 // Task: Inherit Behaviors from a Supertype
+//
 
 // Task: Set the Child's Prototype to an Instance of the Parent
+//
 
 // Task: Reset an Inherited Constructor Property
+//
 
-// Task: Add Methods After Inheritance
+//Task: Add Methods After Inheritance
+//
 
 // Task: Override Inherited Methods
+//
 
 // Task: Use a Mixin to Add Common Behavior Between Unrelated Objects
+//
 
 // Task: Use Closure to Protect Properties Within an Object from Being Modified Externally
+//
 
 // Task: Understand the Immediately Invoked Function Expression (IIFE)
+//
 
 // Task: Use an IIFE to Create a Module
+//
