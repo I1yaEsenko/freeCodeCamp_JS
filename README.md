@@ -2,7 +2,6 @@
 
 ## Basic JavaScript
 
-
 **JavaScript** is a scripting language you can use to make web pages interactive. It is one of the core technologies of the web, along with HTML and CSS, and is supported by all modern browsers.
 
 In this course, you'll learn fundamental programming concepts in JavaScript. You'll start with basic data structures like numbers and strings. Then you'll learn to work with arrays, objects, functions, loops, if/else statements, and more.
@@ -10,22 +9,22 @@ ______
 <details>
 <summary>Tasl and Solutions</summary>
 <br>:white_check_mark: Comment Your JavaScript Code  
-:white_check_mark: Declare JavaScript Variables 
+<br>:white_check_mark: Declare JavaScript Variables 
 <br>:white_check_mark: Storing Values with the Assignment Operator 
 <br>:white_check_mark: Assigning the Value of One Variable to Another 
 <br>:white_check_mark: Initializing Variables with the Assignment Operator 
 <br>:white_check_mark: Understanding Uninitialized Variables 
 <br>:white_check_mark: Understanding Case Sensitivity in Variables 
 <br>:white_check_mark: Add Two Numbers with JavaScript   
-:white_check_mark:Subtract One Number from Another with JavaScript 
+<br>:white_check_mark:Subtract One Number from Another with JavaScript 
 <br>:white_check_mark: Multiply Two Numbers with JavaScript   
-:white_check_mark:Divide One Number by Another with JavaScript 
+<br>:white_check_mark:Divide One Number by Another with JavaScript 
 <br>:white_check_mark: Increment a Number with JavaScript 
 <br>:white_check_mark: Decrement a Number with JavaScript   
-:white_check_mark:Create Decimal Numbers with JavaScript 
+<br>:white_check_mark:Create Decimal Numbers with JavaScript 
 <br>:white_check_mark: Divide One Decimal by Another with JavaScript 
 <br>:white_check_mark: Finding a Remainder in JavaScript   
-:white_check_mark: Compound Assignment With Augmented Subtraction 
+<br>:white_check_mark: Compound Assignment With Augmented Subtraction 
 <br>:white_check_mark: Compound Assignment With Augmented Addition 
 <br>:white_check_mark: Compound Assignment With Augmented Multiplication 
 <br>:white_check_mark: Compound Assignment With Augmented Division 
@@ -44,7 +43,7 @@ ______
 <br>:white_check_mark: Use Bracket Notation to Find the Last Character in a String
 <br>:white_check_mark: Use Bracket Notation to Find the Nth-to-Last Character in a String
 <br>:white_check_mark: Word Blanks  
-:white_check_mark: Store Multiple Values in one Variable using JavaScript Arrays
+<br>:white_check_mark: Store Multiple Values in one Variable using JavaScript Arrays
 <br>:white_check_mark: Nest one Array within Another Array
 <br>:white_check_mark: Access Array Data with Indexes
 <br>:white_check_mark: Modify Array Data With Indexes
@@ -121,26 +120,12 @@ ______
 <br>:white_check_mark: Use Recursion to Create a Range of Numbers
 </details>
 
-## SASS#
-Sass, or "Syntactically Awesome StyleSheets", is a language extension of CSS. It adds features that aren't available in basic CSS, which make it easier for you to simplify and maintain the style sheets for your projects.
+## Basic Algorithm Scripting
 
-In this Sass course, you'll learn how to store data in variables, nest CSS, create reusable styles with mixins, add logic and loops to your styles, and more.
+An algorithm is a series of step-by-step instructions that describe how to do something.
+
+To write an effective algorithm, it helps to break a problem down into smaller parts and think carefully about how to solve each part with code.
+
+In this course, you'll learn the fundamentals of algorithmic thinking by writing algorithms that do everything from converting temperatures to handling complex 2D arrays.
 
 ______
-:white_check_mark:Store Data with Sass Variables
-<br>
-:white_check_mark:Nest CSS with Sass
-<br>
-:white_check_mark:Create Reusable CSS with Mixins
-<br>
-:white_check_mark:Use @if and @else to Add Logic To Your Styles
-<br>
-:white_check_mark:Use @for to Create a Sass Loop
-<br>
-:white_check_mark:Use @each to Map Over Items in a List
-<br>
-:white_check_mark:Apply a Style Until a Condition is Met with @while
-<br>
-:white_check_mark:Split Your Styles into Smaller Chunks with Partials
-<br>
-:white_check_mark:Extend One Set of CSS Styles to Another Element
