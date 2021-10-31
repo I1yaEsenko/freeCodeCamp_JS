@@ -175,7 +175,7 @@ ______
 <br>:white_check_mark: Use Prototype Properties to Reduce Duplicate Code
 <br>:white_check_mark: Iterate Over All Properties
 <br>:white_check_mark: Understand the Constructor Property
-<br>Change the Prototype to a New Object
+<br>:white_check_mark: Change the Prototype to a New Object
 <br>Remember to Set the Constructor Property when Changing the Prototype
 <br>Understand Where an Object’s Prototype Comes From
 <br>Understand the Prototype Chain

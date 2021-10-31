@@ -125,8 +125,18 @@ function joinDogFraternity(candidate) {
   }
 }
 // Task: Change the Prototype to a New Object
-//
+// Изменение прототипа в новом объекте
+function Dog(name) {
+  this.name = name;
+}
 
+Dog.prototype = {
+  numLegs: 4,
+  eat: function (){
+  },
+  describe: function (){
+  }
+};
 // Task: Remember to Set the Constructor Property when Changing the Prototype
 //
 
