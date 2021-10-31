@@ -15,6 +15,13 @@ console.log(dog.name)
 console.log(dog.numLegs) 
 
 // Task: Create a Method on an Object
+// Создание медода в объекте
+let dog = {
+  name: "Spot",
+  numLegs: 4,
+  sayLegs: function() { return "This dog has " + dog.numLegs + " legs."}
+};
+console.log(dog.sayLegs());
 
 // Task: Make Code More Reusable with the this Keyword
 
