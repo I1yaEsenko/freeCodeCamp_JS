@@ -24,6 +24,13 @@ let dog = {
 console.log(dog.sayLegs());
 
 // Task: Make Code More Reusable with the this Keyword
+// Использование this 
+let dog = {
+  name: "Spot",
+  numLegs: 4,
+  sayLegs: function() {return "This dog has " + this.numLegs + " legs.";}
+};
+dog.sayLegs();
 
 // Task: Define a Constructor Function
 
