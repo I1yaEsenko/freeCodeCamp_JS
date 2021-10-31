@@ -168,13 +168,13 @@ ______
 <br>:white_check_mark: Create a Method on an Object
 <br>:white_check_mark: Make Code More Reusable with the this Keyword
 <br>:white_check_mark: Define a Constructor Function
-<br>Use a Constructor to Create Objects
-<br>Extend Constructors to Receive Arguments
-<br>Verify an Object's Constructor with instanceof
-<br>Understand Own Properties
-<br>Use Prototype Properties to Reduce Duplicate Code
-<br>Iterate Over All Properties
-<br>Understand the Constructor Property
+<br>:white_check_mark: Use a Constructor to Create Objects
+<br>:white_check_mark: Extend Constructors to Receive Arguments
+<br>:white_check_mark: Verify an Object's Constructor with instanceof
+<br>:white_check_mark: Understand Own Properties
+<br>:white_check_mark: Use Prototype Properties to Reduce Duplicate Code
+<br>:white_check_mark: Iterate Over All Properties
+<br>:white_check_mark: Understand the Constructor Property
 <br>Change the Prototype to a New Object
 <br>Remember to Set the Constructor Property when Changing the Prototype
 <br>Understand Where an Object’s Prototype Comes From
