@@ -82,8 +82,15 @@ for (let property in canary){
 }
 console.log(ownProps)
 
-
 // Task: Use Prototype Properties to Reduce Duplicate Code
+// Испольнования prototype для избегания дублирования кода 
+function Dog(name) {
+  this.name = name;
+}
+Dog.prototype.numLegs = 4;
+let beagle = new Dog("Snoopy");
+console.log(beagle.numLegs)
+
 
 // Task: Iterate Over All Properties
 
