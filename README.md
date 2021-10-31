@@ -176,8 +176,8 @@ ______
 <br>:white_check_mark: Iterate Over All Properties
 <br>:white_check_mark: Understand the Constructor Property
 <br>:white_check_mark: Change the Prototype to a New Object
-<br>Remember to Set the Constructor Property when Changing the Prototype
-<br>Understand Where an Object’s Prototype Comes From
+<br>:white_check_mark: Remember to Set the Constructor Property when Changing the Prototype
+<br>:white_check_mark: Understand Where an Object’s Prototype Comes From
 <br>Understand the Prototype Chain
 <br>Use Inheritance So You Don't Repeat Yourself
 <br>Inherit Behaviors from a Supertype
