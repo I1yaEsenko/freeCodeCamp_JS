@@ -195,7 +195,16 @@ Animal.prototype = {
 };
 
 // Task: Inherit Behaviors from a Supertype
-//
+// Создание объекта при помощт Object.create
+function Animal() { }
+Animal.prototype = {
+  constructor: Animal,
+  eat: function() {
+    console.log("nom nom nom");
+  }
+};
+let duck = Object.create(Animal.prototype); // Change this line
+let beagle = Object.create(Animal.prototype); // Change this line
 
 // Task: Set the Child's Prototype to an Instance of the Parent
 //
