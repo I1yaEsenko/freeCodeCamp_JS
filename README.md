@@ -181,7 +181,7 @@ ______
 <br>:white_check_mark: Understand the Prototype Chain
 <br>:white_check_mark: Use Inheritance So You Don't Repeat Yourself
 <br>:white_check_mark: Inherit Behaviors from a Supertype
-<br>Set the Child's Prototype to an Instance of the Parent
+<br>:white_check_mark: Set the Child's Prototype to an Instance of the Parent
 <br>Reset an Inherited Constructor Property
 <br>Add Methods After Inheritance
 <br>Override Inherited Methods
