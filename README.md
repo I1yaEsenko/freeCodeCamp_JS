@@ -185,9 +185,9 @@ ______
 <br>:white_check_mark: Reset an Inherited Constructor Property
 <br>:white_check_mark: Add Methods After Inheritance
 <br>:white_check_mark: Override Inherited Methods
-<br>Use a Mixin to Add Common Behavior Between Unrelated Objects
-<br>Use Closure to Protect Properties Within an Object from Being Modified Externally
-<br>Understand the Immediately Invoked Function Expression (IIFE)
-<br>Use an IIFE to Create a Module
+<br>:white_check_mark: Use a Mixin to Add Common Behavior Between Unrelated Objects
+<br>:white_check_mark: Use Closure to Protect Properties Within an Object from Being Modified Externally
+<br>:white_check_mark: Understand the Immediately Invoked Function Expression (IIFE)
+<br>:white_check_mark: Use an IIFE to Create a Module
 
 </details>

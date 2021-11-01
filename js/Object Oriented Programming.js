@@ -267,7 +267,28 @@ let penguin = new Penguin();
 console.log(penguin.fly());
 
 // Task: Use a Mixin to Add Common Behavior Between Unrelated Objects
-//
+// Использование миксинов для общих свойств несвязных объектов
+let bird = {
+  name: "Donald",
+  numLegs: 2
+};
+
+let boat = {
+  name: "Warrior",
+  type: "race-boat"
+};
+
+let glideMixin = function(obj){
+  obj.glide = function (){
+    console.log("Oooopsss");
+  }
+}
+
+glideMixin(bird);
+glideMixin(boat);
+bird.glide();
+boat.glide();
+
 
 // Task: Use Closure to Protect Properties Within an Object from Being Modified Externally
 //
