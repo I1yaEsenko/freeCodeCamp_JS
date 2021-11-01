@@ -300,7 +300,12 @@ function Bird() {
 }
 
 // Task: Understand the Immediately Invoked Function Expression (IIFE)
-//
-
+// Функция шаблон которая выполняется немедленно 
+(
+  function () {
+  console.log("A cozy nest is ready");
+}
+)
+();
 // Task: Use an IIFE to Create a Module
 //
