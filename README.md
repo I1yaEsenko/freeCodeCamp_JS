@@ -183,7 +183,7 @@ ______
 <br>:white_check_mark: Inherit Behaviors from a Supertype
 <br>:white_check_mark: Set the Child's Prototype to an Instance of the Parent
 <br>:white_check_mark: Reset an Inherited Constructor Property
-<br>Add Methods After Inheritance
+<br>:white_check_mark: Add Methods After Inheritance
 <br>Override Inherited Methods
 <br>Use a Mixin to Add Common Behavior Between Unrelated Objects
 <br>Use Closure to Protect Properties Within an Object from Being Modified Externally
