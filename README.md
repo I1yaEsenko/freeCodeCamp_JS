@@ -182,7 +182,7 @@ ______
 <br>:white_check_mark: Use Inheritance So You Don't Repeat Yourself
 <br>:white_check_mark: Inherit Behaviors from a Supertype
 <br>:white_check_mark: Set the Child's Prototype to an Instance of the Parent
-<br>Reset an Inherited Constructor Property
+<br>:white_check_mark: Reset an Inherited Constructor Property
 <br>Add Methods After Inheritance
 <br>Override Inherited Methods
 <br>Use a Mixin to Add Common Behavior Between Unrelated Objects
