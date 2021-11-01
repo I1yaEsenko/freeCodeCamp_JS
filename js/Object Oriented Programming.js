@@ -291,7 +291,13 @@ boat.glide();
 
 
 // Task: Use Closure to Protect Properties Within an Object from Being Modified Externally
-//
+// Защита свойств внутри объекта от изменений из вне
+function Bird() {
+  let weight = 15;
+  this.getWeight = function() {
+    return weight;
+  }
+}
 
 // Task: Understand the Immediately Invoked Function Expression (IIFE)
 //
