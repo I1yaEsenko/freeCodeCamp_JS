@@ -133,7 +133,7 @@ ______
 <details>
 <summary>Task and Solutions</summary>
 
-<br>Convert Celsius to Fahrenheit
+<br>:white_check_mark: Convert Celsius to Fahrenheit
 <br>Reverse a String
 <br>Factorialize a Number
 <br>Find the Longest Word in a String
