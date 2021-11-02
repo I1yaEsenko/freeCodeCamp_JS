@@ -134,7 +134,7 @@ ______
 <summary>Task and Solutions</summary>
 
 <br>:white_check_mark: Convert Celsius to Fahrenheit
-<br>Reverse a String
+<br>:white_check_mark: Reverse a String
 <br>Factorialize a Number
 <br>Find the Longest Word in a String
 <br>Return Largest Numbers in Arrays
