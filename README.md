@@ -5,7 +5,7 @@
 **JavaScript** is a scripting language you can use to make web pages interactive. It is one of the core technologies of the web, along with HTML and CSS, and is supported by all modern browsers.
 
 In this course, you'll learn fundamental programming concepts in JavaScript. You'll start with basic data structures like numbers and strings. Then you'll learn to work with arrays, objects, functions, loops, if/else statements, and more.
-______
+
 <details>
 <summary>Task and Solutions</summary>
 
@@ -121,6 +121,8 @@ ______
 <br>:white_check_mark: Use Recursion to Create a Range of Numbers
 </details>
 
+______
+
 ## Basic Algorithm Scripting
 
 An algorithm is a series of step-by-step instructions that describe how to do something.
@@ -129,7 +131,6 @@ To write an effective algorithm, it helps to break a problem down into smaller p
 
 In this course, you'll learn the fundamentals of algorithmic thinking by writing algorithms that do everything from converting temperatures to handling complex 2D arrays.
 
-______
 <details>
 <summary>Task and Solutions</summary>
 
@@ -152,13 +153,13 @@ ______
 
 </details>
 
+______
+
 ## Object Oriented Programming
 
 OOP, or Object Oriented Programming, is one of the major approaches to the software development process. In OOP, objects and classes organize code to describe things and what they can do.
 
 In this course, you'll learn the basic principles of OOP in JavaScript, including the this keyword, prototype chains, constructors, and inheritance.
-
-______
 
 <details>
 <summary>Task and Solutions</summary>
@@ -191,3 +192,48 @@ ______
 <br>:white_check_mark: Use an IIFE to Create a Module
 
 </details>
+
+______
+
+## ES6
+ECMAScript, or ES, is a standardized version of JavaScript. Because all major browsers follow this specification, the terms ECMAScript and JavaScript are interchangeable.
+
+Most of the JavaScript you've learned up to this point was in ES5 (ECMAScript 5), which was finalized in 2009. While you can still write programs in ES5, JavaScript is constantly evolving, and new features are released every year.
+
+ES6, released in 2015, added many powerful new features to the language. In this course, you'll learn these new features, including arrow functions, destructuring, classes, promises, and modules
+
+
+<details>
+<summary>Task and Solutions</summary>
+<br>:white_check_mark: Compare Scopes of the var and let Keywords
+<br>Mutate an Array Declared with const
+<br>Prevent Object Mutation
+<br>Use Arrow Functions to Write Concise Anonymous Functions
+<br>Write Arrow Functions with Parameters
+<br>Set Default Parameters for Your Functions
+<br>Use the Rest Parameter with Function Parameters
+<br>Use the Spread Operator to Evaluate Arrays In-Place
+<br>Use Destructuring Assignment to Extract Values from Objects
+<br>Use Destructuring Assignment to Assign Variables from Objects
+<br>Use Destructuring Assignment to Assign Variables from Nested Objects
+<br>Use Destructuring Assignment to Assign Variables from Arrays
+<br>Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements
+<br>Use Destructuring Assignment to Pass an Object as a Function's Parameters
+<br>Create Strings using Template Literals
+<br>Write Concise Object Literal Declarations Using Object Property Shorthand
+<br>Write Concise Declarative Functions with ES6
+<br>Use class Syntax to Define a Constructor Function
+<br>Use getters and setters to Control Access to an Object
+<br>Create a Module Script
+<br>Use export to Share a Code Block
+<br>Reuse JavaScript Code Using import
+<br>Use * to Import Everything from a File
+<br>Create an Export Fallback with export default
+<br>Import a Default Export
+<br>Create a JavaScript Promise
+<br>Complete a Promise with resolve and reject
+<br>Handle a Fulfilled Promise with then
+<br>Handle a Rejected Promise with catch
+</details>
+
+______
