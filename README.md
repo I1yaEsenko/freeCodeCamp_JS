@@ -207,7 +207,7 @@ ES6, released in 2015, added many powerful new features to the language. In this
 <summary>Task and Solutions</summary>
 <br>:white_check_mark: Compare Scopes of the var and let Keywords
 <br>:white_check_mark: Mutate an Array Declared with const
-<br>Prevent Object Mutation
+<br>:white_check_mark: Prevent Object Mutation
 <br>Use Arrow Functions to Write Concise Anonymous Functions
 <br>Write Arrow Functions with Parameters
 <br>Set Default Parameters for Your Functions
