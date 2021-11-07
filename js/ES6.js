@@ -51,6 +51,11 @@ const increment = (number , value = 1) => number + value;
 
 //Use the Rest Parameter with Function Parameters
 //
+const sum = (...args) => {
+  return args.reduce((a, b) => a + b, 0);
+}
+
+console.log(sum(4,3,2,1))
 
 //Use the Spread Operator to Evaluate Arrays In-Place
 //
