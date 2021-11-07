@@ -210,7 +210,7 @@ ES6, released in 2015, added many powerful new features to the language. In this
 <br>:white_check_mark: Prevent Object Mutation
 <br>:white_check_mark: Use Arrow Functions to Write Concise Anonymous Functions
 <br>:white_check_mark: Write Arrow Functions with Parameters
-<br>Set Default Parameters for Your Functions
+<br>:white_check_mark: Set Default Parameters for Your Functions
 <br>Use the Rest Parameter with Function Parameters
 <br>Use the Spread Operator to Evaluate Arrays In-Place
 <br>Use Destructuring Assignment to Extract Values from Objects
