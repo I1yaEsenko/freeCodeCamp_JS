@@ -214,10 +214,10 @@ ES6, released in 2015, added many powerful new features to the language. In this
 <br>:white_check_mark: Use the Rest Parameter with Function Parameters
 <br>:white_check_mark: Use the Spread Operator to Evaluate Arrays In-Place
 <br>:white_check_mark: Use Destructuring Assignment to Extract Values from Objects
-<br>Use Destructuring Assignment to Assign Variables from Objects
-<br>Use Destructuring Assignment to Assign Variables from Nested Objects
-<br>Use Destructuring Assignment to Assign Variables from Arrays
-<br>Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements
+<br>:white_check_mark: Use Destructuring Assignment to Assign Variables from Objects
+<br>:white_check_mark: Use Destructuring Assignment to Assign Variables from Nested Objects
+<br>:white_check_mark: Use Destructuring Assignment to Assign Variables from Arrays
+<br>:white_check_mark: Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements
 <br>Use Destructuring Assignment to Pass an Object as a Function's Parameters
 <br>Create Strings using Template Literals
 <br>Write Concise Object Literal Declarations Using Object Property Shorthand
