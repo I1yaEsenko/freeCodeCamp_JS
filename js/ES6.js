@@ -91,9 +91,10 @@ const LOCAL_FORECAST = {
 };
 const {today: { low: lowToday, high: highToday}} = LOCAL_FORECAST
 
-// Only change code above this line
 //Use Destructuring Assignment to Assign Variables from Arrays
-//
+// замена а на б и б на а
+let a = 8, b = 6;
+[a, b] = [b, a]
 
 //Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements
 //
