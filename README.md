@@ -218,22 +218,22 @@ ES6, released in 2015, added many powerful new features to the language. In this
 <br>:white_check_mark: Use Destructuring Assignment to Assign Variables from Nested Objects
 <br>:white_check_mark: Use Destructuring Assignment to Assign Variables from Arrays
 <br>:white_check_mark: Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements
-<br>Use Destructuring Assignment to Pass an Object as a Function's Parameters
-<br>Create Strings using Template Literals
-<br>Write Concise Object Literal Declarations Using Object Property Shorthand
-<br>Write Concise Declarative Functions with ES6
-<br>Use class Syntax to Define a Constructor Function
-<br>Use getters and setters to Control Access to an Object
-<br>Create a Module Script
-<br>Use export to Share a Code Block
-<br>Reuse JavaScript Code Using import
-<br>Use * to Import Everything from a File
-<br>Create an Export Fallback with export default
-<br>Import a Default Export
-<br>Create a JavaScript Promise
-<br>Complete a Promise with resolve and reject
-<br>Handle a Fulfilled Promise with then
-<br>Handle a Rejected Promise with catch
+<br>:white_check_mark: Use Destructuring Assignment to Pass an Object as a Function's Parameters
+<br>:white_check_mark: Create Strings using Template Literals
+<br>:white_check_mark: Write Concise Object Literal Declarations Using Object Property Shorthand
+<br>:white_check_mark: Write Concise Declarative Functions with ES6
+<br>:white_check_mark: Use class Syntax to Define a Constructor Function
+<br>:white_check_mark: Use getters and setters to Control Access to an Object
+<br>:white_check_mark: Create a Module Script
+<br>:white_check_mark: Use export to Share a Code Block
+<br>:white_check_mark: Reuse JavaScript Code Using import
+<br>:white_check_mark: Use * to Import Everything from a File
+<br>:white_check_mark: Create an Export Fallback with export default
+<br>:white_check_mark: Import a Default Export
+<br>:white_check_mark: Create a JavaScript Promise
+<br>:white_check_mark: Complete a Promise with resolve and reject
+<br>:white_check_mark: Handle a Fulfilled Promise with then
+<br>:white_check_mark: Handle a Rejected Promise with catch
 </details>
 
 ______
