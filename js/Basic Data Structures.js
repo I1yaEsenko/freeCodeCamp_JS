@@ -36,8 +36,12 @@ arr.splice(1,4);
 console.log(arr);
 
 //Add Items Using splice()
-//
-
+// Добавление элементов массива , после удаленных при помощи splice ( 3 аргумент)
+function htmlColorNames(arr) {
+arr.splice(0,2,'DarkSalmon', 'BlanchedAlmond')
+  return arr;
+}
+console.log(htmlColorNames(['DarkGoldenRod', 'WhiteSmoke', 'LavenderBlush', 'PaleTurquoise', 'FireBrick']));
 
 
 //Copy Array Items Using slice()
