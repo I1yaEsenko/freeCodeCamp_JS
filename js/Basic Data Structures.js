@@ -82,8 +82,16 @@ function quickCheck(arr, elem) {
 console.log(quickCheck(['squash', 'onions', 'shallots'], 'mushrooms'));
 
 //Iterate Through All an Array's Items Using For Loops
-//
-
+//Итерация по массиву и удаление элемента с заданым аргументом
+let newArr = [];
+for ( let i = 0; i < arr.length; i++){
+  if (arr[i].indexOf(elem) == -1){
+    newArr.push(arr[i])
+  }
+  
+return newArr;
+}
+console.log(filteredArray([[10, 8, 3], [14, 6, 23], [3, 18, 6]], 18));
 
 
 //Create complex multi-dimensional arrays
