@@ -2,13 +2,11 @@
 // задание массива 
 let yourArray = ['one', 'two', 12, 14.4, 15, null, true]; 
 
-
 //Access an Array's Contents Using Bracket Notation
 // Доступ к элементам массива 
 let myArray = ["a", "b", "c", "d"];
 myArray[1] = 4;
 console.log(myArray);
-
 
 //Add Items to an Array with push() and unshift()
 // Добавление элементов в конец и начало массива 
@@ -28,7 +26,6 @@ function popShift(arr) {
 }
 console.log(popShift(['challenge', 'is', 'not', 'complete']));
 
-
 //Remove Items Using splice()
 // Удаление произвольного элемента при помощи splice
 const arr = [2, 4, 5, 1, 7, 5, 2, 1];
@@ -43,7 +40,6 @@ arr.splice(0,2,'DarkSalmon', 'BlanchedAlmond')
 }
 console.log(htmlColorNames(['DarkGoldenRod', 'WhiteSmoke', 'LavenderBlush', 'PaleTurquoise', 'FireBrick']));
 
-
 //Copy Array Items Using slice()
 // Копирование части масслива при помощи Slice(), выбирает от какого элемента и до какого, не включая последний 
 function forecast(arr) {
@@ -51,7 +47,6 @@ function forecast(arr) {
   return newArr;
 }
 console.log(forecast(['cold', 'rainy', 'warm', 'sunny', 'cool', 'thunderstorms']));
-
 
 //Copy an Array with the Spread Operator
 // Копирование массива при помощи спред оператора
@@ -66,7 +61,6 @@ function copyMachine(arr, num) {
 
 console.log(copyMachine([true, false, true], 2));
 
-
 //Combine Arrays with the Spread Operator
 // Комбинирование массивом спред оператаром 
 function spreadOut() {
@@ -76,11 +70,16 @@ function spreadOut() {
 }
 console.log(spreadOut());
 
-
 //Check For The Presence of an Element With indexOf()
-//
-
-
+// Существует ли элемент массива, выводит позицию, если нет то -1
+function quickCheck(arr, elem) {
+  if ( arr.indexOf(elem) >= 0) {
+    return true;
+  } else {
+    return false;
+  }
+}
+console.log(quickCheck(['squash', 'onions', 'shallots'], 'mushrooms'));
 
 //Iterate Through All an Array's Items Using For Loops
 //
