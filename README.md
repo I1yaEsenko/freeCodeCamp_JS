@@ -245,13 +245,13 @@ In this Basic Data Structures course, you'll learn more about the differences be
 
 <details>
 <summary>Tasks done</summary>
-<br>Use an Array to Store a Collection of Data
-<br>Access an Array's Contents Using Bracket Notation
-<br>Add Items to an Array with push() and unshift()
-<br>Remove Items from an Array with pop() and shift()
-<br>Remove Items Using splice()
-<br>Add Items Using splice()
-<br>Copy Array Items Using slice()
+<br>:white_check_mark: Use an Array to Store a Collection of Data
+<br>:white_check_mark: Access an Array's Contents Using Bracket Notation
+<br>:white_check_mark: Add Items to an Array with push() and unshift()
+<br>:white_check_mark: Remove Items from an Array with pop() and shift()
+<br>:white_check_mark: Remove Items Using splice()
+<br>:white_check_mark: Add Items Using splice()
+<br>:white_check_mark: Copy Array Items Using slice()
 <br>Copy an Array with the Spread Operator
 <br>Combine Arrays with the Spread Operator
 <br>Check For The Presence of an Element With indexOf()
