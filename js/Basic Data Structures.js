@@ -4,8 +4,10 @@ let yourArray = ['one', 'two', 12, 14.4, 15, null, true];
 
 
 //Access an Array's Contents Using Bracket Notation
-//
-
+// Доступ к элементам массива 
+let myArray = ["a", "b", "c", "d"];
+myArray[1] = 4;
+console.log(myArray);
 
 
 //Add Items to an Array with push() and unshift()
