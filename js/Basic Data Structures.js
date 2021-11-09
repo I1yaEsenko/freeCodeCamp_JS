@@ -68,8 +68,13 @@ console.log(copyMachine([true, false, true], 2));
 
 
 //Combine Arrays with the Spread Operator
-//
-
+// Комбинирование массивом спред оператаром 
+function spreadOut() {
+  let fragment = ['to', 'code'];
+  let sentence = ["learning", ...fragment, "is", "fun"]; 
+  return sentence;
+}
+console.log(spreadOut());
 
 
 //Check For The Presence of an Element With indexOf()
