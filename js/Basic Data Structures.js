@@ -11,8 +11,14 @@ console.log(myArray);
 
 
 //Add Items to an Array with push() and unshift()
-//
+// Добавление элементов в конец и начало массива 
+function mixedNumbers(arr) {
+  arr.push(7, "VIII", 9);
+  arr.unshift('I', 2, 'three')
+  return arr;
+}
 
+console.log(mixedNumbers(['IV', 5, 'six']));
 
 
 //Remove Items from an Array with pop() and shift()
