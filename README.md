@@ -258,13 +258,13 @@ In this Basic Data Structures course, you'll learn more about the differences be
 <br>:white_check_mark: Iterate Through All an Array's Items Using For Loops
 <br>:white_check_mark: Create complex multi-dimensional arrays
 <br>:white_check_mark: Add Key-Value Pairs to JavaScript Objects
-<br>Modify an Object Nested Within an Object
-<br>Access Property Names with Bracket Notation
-<br>Use the delete Keyword to Remove Object Properties
-<br>Check if an Object has a Property
-<br>Iterate Through the Keys of an Object with a for...in Statement
-<br>Generate an Array of All Object Keys with Object.keys()
-<br>Modify an Array Stored in an Object
+<br>:white_check_mark: Modify an Object Nested Within an Object
+<br>:white_check_mark: Access Property Names with Bracket Notation
+<br>:white_check_mark: Use the delete Keyword to Remove Object Properties
+<br>:white_check_mark: Check if an Object has a Property
+<br>:white_check_mark: Iterate Through the Keys of an Object with a for...in Statement
+<br>:white_check_mark: Generate an Array of All Object Keys with Object.keys()
+<br>:white_check_mark: Modify an Array Stored in an Object
 </details>
 
 ______
