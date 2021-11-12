@@ -149,8 +149,17 @@ console.log(userActivity);
 
 
 //Access Property Names with Bracket Notation
-//
-
+// Доступ к именам свойств с обозначением в скобках
+let foods = {
+  apples: 25,
+  oranges: 32,
+  plums: 28,
+  bananas: 13,
+  grapes: 35,
+  strawberries: 27
+};
+const checkInventory = (scannedItem) => foods[scannedItem] 
+console.log(checkInventory("apples"));
 
 
 //Use the delete Keyword to Remove Object Properties
