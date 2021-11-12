@@ -257,7 +257,7 @@ In this Basic Data Structures course, you'll learn more about the differences be
 <br>:white_check_mark: Check For The Presence of an Element With indexOf()
 <br>:white_check_mark: Iterate Through All an Array's Items Using For Loops
 <br>:white_check_mark: Create complex multi-dimensional arrays
-<br>Add Key-Value Pairs to JavaScript Objects
+<br>:white_check_mark: Add Key-Value Pairs to JavaScript Objects
 <br>Modify an Object Nested Within an Object
 <br>Access Property Names with Bracket Notation
 <br>Use the delete Keyword to Remove Object Properties
