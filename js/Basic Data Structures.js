@@ -180,12 +180,41 @@ console.log(foods);
 
 //Check if an Object has a Property
 //
+let users = {
+  Alan: {
+    age: 27,
+    online: true
+  },
+  Jeff: {
+    age: 32,
+    online: true
+  },
+  Sarah: {
+    age: 48,
+    online: true
+  },
+  Ryan: {
+    age: 19,
+    online: true
+  }
+};
 
-
+function isEveryoneHere(userObj) {
+  return ["Alan", "Jeff", "Sarah", "Ryan"].every(name => userObj.hasOwnProperty(name))
+}
+console.log(isEveryoneHere(users));
 
 //Iterate Through the Keys of an Object with a for...in Statement
 //
-
+function countOnline(usersObj) {
+  let count = 0;
+  for (let user in usersObj){
+    if (usersObj[user].online == true){
+      count++;
+    }
+  }
+  return count
+}
 
 
 //Generate an Array of All Object Keys with Object.keys()
