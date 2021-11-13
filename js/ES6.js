@@ -210,6 +210,10 @@ export {uppercaseString, lowercaseString}
 
 //Reuse JavaScript Code Using import
 //
+uppercaseString("hello");
+lowercaseString("WORLD!");
+
+import {uppercaseString, lowercaseString} from './string_functions.js'
 
 //Use * to Import Everything from a File
 //
