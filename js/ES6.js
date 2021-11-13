@@ -136,7 +136,14 @@ const failuresList = makeList(result.failure);
 console.log(failuresList)
 
 //Write Concise Object Literal Declarations Using Object Property Shorthand
-//
+// const createPerson = (name, age, gender) => {
+//   return {
+//     name: name,
+//     age: age,
+//     gender: gender
+//   };
+// };
+const createPerson = (name, age, gender) => ({name, age, gender});
 
 //Write Concise Declarative Functions with ES6
 //
