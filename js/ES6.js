@@ -159,6 +159,14 @@ console.log(bicycle.gear);
 
 //Use class Syntax to Define a Constructor Function
 //
+class Vegetable{
+  constructor(createVegetable){
+    this.name = createVegetable;
+  }
+}
+const carrot = new Vegetable('carrot');
+console.log(carrot.name); // Should display 'carrot'
+
 
 //Use getters and setters to Control Access to an Object
 //
