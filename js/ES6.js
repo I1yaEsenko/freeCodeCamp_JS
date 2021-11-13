@@ -189,6 +189,12 @@ temp = thermos.temperature; // 26 in Celsius
 
 //Create a Module Script
 //
+<html>
+  <body>
+<script type="module" src="index.js"></script>
+  </body>
+</html>
+
 
 //Use export to Share a Code Block
 //
