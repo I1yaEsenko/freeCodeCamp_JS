@@ -217,21 +217,65 @@ import {uppercaseString, lowercaseString} from './string_functions.js'
 
 //Use * to Import Everything from a File
 //
+stringFunctions.uppercaseString("hello");
+stringFunctions.lowercaseString("WORLD!");
+
+import * as stringFunctions from './string_functions.js';
 
 //Create an Export Fallback with export default
 //
+export default  function subtract(x, y) {
+  return x - y;
+}
 
 //Import a Default Export
 //
+import subtract from './math_functions.js';
+subtract(7,4);
 
 //Create a JavaScript Promise
 //
+const makeServerRequest = new Promise((resolve, reject) => {})
+
 
 //Complete a Promise with resolve and reject
 //
+const makeServerRequest = new Promise((resolve, reject) => {
+  let responseFromServer;
+  if(responseFromServer) {
+    resolve ('We got the data')
+  } else {  
+    reject ('Data not received')
+  }
+});
+
 
 //Handle a Fulfilled Promise with then
 //
+const makeServerRequest = new Promise((resolve, reject) => {
+  let responseFromServer = true;
+  if(responseFromServer) {
+    resolve("We got the data");
+  } else {  
+    reject("Data not received");
+  }
+});
+  makeServerRequest.then(result=>{console.log(result)})
 
 //Handle a Rejected Promise with catch
 //
+const makeServerRequest = new Promise((resolve, reject) => {
+  // responseFromServer is set to false to represent an unsuccessful response from a server
+  let responseFromServer = false;
+    
+  if(responseFromServer) {
+    resolve("We got the data");
+  } else {  
+    reject("Data not received");
+  }
+});
+makeServerRequest.then(result => {
+  console.log(result); })
+ 
+makeServerRequest.catch(error => {
+  console.log(error)});
