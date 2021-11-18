@@ -292,3 +292,42 @@ In this course, you'll learn how to use the JavaScript console to debug programs
 <br>:white_check_mark: Use Caution When Reinitializing Variables Inside a Loop
 <br>:white_check_mark: Prevent Infinite Loops with a Valid Terminal Condition
 </details>
+
+______
+
+
+## Functional Programming 
+Functional Programming is another popular approach to software development. In Functional Programming, code is organized into smaller, basic functions that can be combined to build complex programs.
+
+In this course, you'll learn the core concepts of Functional Programming including pure functions, how to avoid mutations, and how to write cleaner code with methods like .map() and .filter().
+
+
+<details>
+<summary>Tasks done</summary>
+<br> Learn About Functional Programming
+<br> Understand Functional Programming Terminology
+<br> Understand the Hazards of Using Imperative Code
+<br> Avoid Mutations and Side Effects Using Functional Programming
+<br> Pass Arguments to Avoid External Dependence in a Function
+<br> Refactor Global Variables Out of Functions
+<br> Use the map Method to Extract Data from an Array
+<br> Implement map on a Prototype
+<br> Use the filter Method to Extract Data from an Array
+<br> Implement the filter Method on a Prototype
+<br> Return Part of an Array Using the slice Method
+<br> Remove Elements from an Array Using slice Instead of splice
+<br> Combine Two Arrays Using the concat Method
+<br> Add Elements to the End of an Array Using concat Instead of push
+<br> Use the reduce Method to Analyze Data
+<br> Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem
+<br> Sort an Array Alphabetically using the sort Method
+<br> Return a Sorted Array Without Changing the Original Array
+<br> Split a String into an Array Using the split Method
+<br> Combine an Array into a String Using the join Method
+<br> Apply Functional Programming to Convert Strings to URL Slugs
+<br> Use the every Method to Check that Every Element in an Array Meets a Criteria
+<br> Use the some Method to Check that Any Elements in an Array Meet a Criteria
+<br> Introduction to Currying and Partial Application
+</details>
+
+______
