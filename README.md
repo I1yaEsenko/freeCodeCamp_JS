@@ -268,3 +268,27 @@ In this Basic Data Structures course, you'll learn more about the differences be
 </details>
 
 ______
+
+
+## Debugging
+Debugging is the process of going through your code, finding any issues, and fixing them.
+
+Issues in code generally come in three forms: syntax errors that prevent your program from running, runtime errors where your code has unexpected behavior, or logical errors where your code doesn't do what you intended.
+
+In this course, you'll learn how to use the JavaScript console to debug programs and prevent common issues before they happen.
+
+<details>
+<summary>Tasks done</summary>
+<br>:white_check_mark: Use the JavaScript Console to Check the Value of a Variable
+<br>:white_check_mark: Understanding the Differences between the freeCodeCamp and Browser Console
+<br>:white_check_mark: Use typeof to Check the Type of a Variable
+<br>:white_check_mark: Catch Misspelled Variable and Function Names
+<br>:white_check_mark: Catch Unclosed Parentheses, Brackets, Braces and Quotes
+<br>:white_check_mark: Catch Mixed Usage of Single and Double Quotes
+<br>:white_check_mark: Catch Use of Assignment Operator Instead of Equality Operator
+<br>:white_check_mark: Catch Missing Open and Closing Parenthesis After a Function Call
+<br>:white_check_mark: Catch Arguments <br>:white_check_mark: in the Wrong Order When Calling a Function
+<br>:white_check_mark: Catch Off By One Errors When Using Indexing
+<br>:white_check_mark: Use Caution When Reinitializing Variables Inside a Loop
+<br>:white_check_mark: Prevent Infinite Loops with a Valid Terminal Condition
+</details>
