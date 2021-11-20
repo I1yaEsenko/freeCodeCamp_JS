@@ -304,7 +304,7 @@ In this course, you'll learn the core concepts of Functional Programming includi
 
 <details>
 <summary>Tasks done</summary>
-<br> Learn About Functional Programming
+<br>:white_check_mark: Learn About Functional Programming
 <br> Understand Functional Programming Terminology
 <br> Understand the Hazards of Using Imperative Code
 <br> Avoid Mutations and Side Effects Using Functional Programming
